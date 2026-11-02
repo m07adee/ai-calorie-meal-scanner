@@ -1,0 +1,32 @@
+{
+  "ai_service.py": {
+    "mtime": 1793644016.1228602,
+    "seen": 1793644402.6361077,
+    "ast_hash": "e41f62c2aa9d48995bd0e6087de7dc68",
+    "semantic_hash": ""
+  },
+  "app.py": {
+    "mtime": 1793644395.5288494,
+    "seen": 1793644402.6361077,
+    "ast_hash": "8dbf0bc0dedd96890c1544c926c91bcb",
+    "semantic_hash": ""
+  },
+  "requirements.txt": {
+    "mtime": 1793643972.0999773,
+    "seen": 1793643982.0285323,
+    "ast_hash": "ac9b5131e7601b73ec31b69f5b00319d",
+    "semantic_hash": ""
+  },
+  ".claude/launch.json": {
+    "mtime": 1793644399.7972543,
+    "seen": 1793644402.6361077,
+    "ast_hash": "8c8b722c6802caca10ffe3f3a8bab123",
+    "semantic_hash": ""
+  },
+  "README.md": {
+    "mtime": 1793644053.7536013,
+    "seen": 1793644402.6361077,
+    "ast_hash": "f66315fd3f6f26473b5f948e8e465be4",
+    "semantic_hash": ""
+  }
+}
